@@ -47,6 +47,9 @@ Face Detection using OpenCV | Python
    -Blue rectangle drawn around detected face(s)
   
 
-https://github.com/user-attachments/assets/58a066ad-fa17-4474-9571-c38ab274264f
+
+https://github.com/user-attachments/assets/885df354-72e3-481a-9923-b672e3b470e3
+
+
 
 
