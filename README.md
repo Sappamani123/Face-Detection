@@ -1,3 +1,5 @@
+
+
 Face Detection using OpenCV | Python
 
   This project implements real-time face detection using the OpenCV library and Haarcascade classifiers. The webcam feed is captured and processed to detect human faces, which are highlighted     with bounding boxes.
@@ -43,3 +45,8 @@ Face Detection using OpenCV | Python
    -Automatically detects faces in live video
 
    -Blue rectangle drawn around detected face(s)
+  
+
+https://github.com/user-attachments/assets/58a066ad-fa17-4474-9571-c38ab274264f
+
+
